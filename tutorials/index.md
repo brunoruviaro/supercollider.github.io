@@ -11,6 +11,10 @@ category: tutorials
 <em>(…plus here’s a <a href="http://jahya.net/blog/?2012-06-quickref-for-supercollider">quick reference based on Scott’s tutorial</a> by Andrew McWilliams)</em></li>
 <li><a href="http://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html">Nick Collins’ &nbsp;SuperCollider tutorial</a> has a 12 week course of tutorial files as browseable HTML, and is also available in a downloadable zip</li>
 <li><a href="http://www.mat.ucsb.edu/275/CottleSC3.pdf">David Cottle’s SC tutorial</a></li>
+<li><a href="https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf">A Gentle Introduction to SuperCollider</a> by Bruno Ruviaro</li>
+
+
+
 </ul>
 <p>Other introductory tutorials:</p>
 <ul>
